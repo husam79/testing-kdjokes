@@ -1,4 +1,3 @@
-import pytest
 from main import get_random_joke
 
 def test_joke_length():
